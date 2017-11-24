@@ -1,0 +1,74 @@
+.regform{
+    
+    background: #fff none repeat scroll 0 0;
+    border: medium none;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.registration-form{
+    padding-left:80px;
+    padding-right:80px; 
+    padding-bottom:50px;
+}
+
+.reg-btn{
+    background-color:#e94e38; 
+    color:white;
+    border:none;
+    padding: 5px;
+}
+
+.reg-btn:hover{
+    background: #1db05e none repeat scroll 0 0;
+}
+
+.required-field{
+    color: #bbb;
+    font-size: 12px;
+}
+
+.btn2{
+    border: none;
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+    background: none;
+    cursor: pointer;
+    padding: 6px 30px;
+    display: inline-block;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 500;
+    outline: none;
+    position: relative;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+    background: #e94e38;
+    color: #fff;
+    font-size: 1.1em;
+    text-shadow: -1px 0px 1px rgba(214, 214, 214, 0.59);
+}
+
+.my-offering{
+    padding-top:45px !important; 
+    padding-bottom: 45px !important;
+}
+
+.my-footer-grid{
+    margin-right: 8% !important;
+}
+
+.my-last-footer-grid{
+     margin-right: 6% !important;
+}
+#reg-log-cls{
+    
+font-size: 11px !important;
+color: grey !important;
+float: right !important;
+margin-top: 15px !important;
+    
+}
+
